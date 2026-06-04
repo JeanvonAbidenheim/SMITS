@@ -1,0 +1,20 @@
+{
+    "Zain": [
+        {
+            "id": "8e05dab1",
+            "jeneng_lengkap": "Zain A.",
+            "nim": "04325003060",
+            "prodi": "Rekayasa Informatika",
+            "foto": "foto_6a204a8e32ca5.png"
+        }
+    ],
+    "ADMIN": [
+        {
+            "id": "ea302439",
+            "jeneng_lengkap": "Noor Azzam",
+            "nim": "043107003",
+            "prodi": "Teknik Informatika",
+            "foto": "foto_6a20d1b71a1bb.png"
+        }
+    ]
+}
